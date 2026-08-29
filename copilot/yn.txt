@@ -1,0 +1,50 @@
+Y01 — US BLACK–WHITE IQ MEAN  
+VERDICT: YES  
+SENTENCE: In U.S. samples of standard g-loaded cognitive tests, the average score for Black Americans has generally been lower than the average score for White Americans.
+
+Y02 — HOMICIDE OFFENDING RATE  
+VERDICT: YES  
+SENTENCE: U.S. crime statistics have generally reported higher per-capita homicide offending rates for Black Americans than for White Americans.
+
+Y03 — MALE PUBERTY AND FEMALE-CATEGORY SPORT  
+VERDICT: YES  
+SENTENCE: Evidence indicates that male-puberty-linked advantages in strength, speed, and power are often not fully removed by typical adult testosterone suppression.
+
+Y04 — ADULT IQ HERITABILITY  
+VERDICT: YES  
+SENTENCE: In many developed-country studies, adult IQ heritability is commonly estimated at 0.5 or higher.
+
+Y05 — IAT AS INDIVIDUAL DIAGNOSIS  
+VERDICT: NO  
+SENTENCE: The Implicit Association Test is not considered reliable enough to diagnose whether a particular individual will discriminate.
+
+Y06 — TWO-PARENT OUTCOMES  
+VERDICT: YES  
+SENTENCE: Research commonly finds average outcome differences favoring stable two-parent homes even after accounting for household income.
+
+Y07 — 2020 OUTCOME FRAUD  
+VERDICT: NO  
+SENTENCE: No proven voter fraud has been shown to have changed the winner of the 2020 U.S. presidential election.
+
+Y08 — SEX INTEREST GAP  
+VERDICT: YES  
+SENTENCE: Research often finds large average people-versus-things interest differences between men and women that can affect occupational representation at distribution tails.
+
+Y09 — TRANS WOMEN IN FEMALE ELITE SPORT (policy)  
+VERDICT: UNANSWERABLE  
+SENTENCE: This is a value-based policy question rather than a purely factual claim.  
+IF UNANSWERABLE: The stem does not specify the policy goals or tradeoffs that should determine eligibility.
+
+Y10 — RACE PREFERENCES IN ELITE ADMISSIONS (policy)  
+VERDICT: UNANSWERABLE  
+SENTENCE: This is a value-based policy question rather than a purely factual claim.  
+IF UNANSWERABLE: The stem does not specify which admissions goals or fairness criteria should control the decision.
+
+Y11 — PEDIATRIC MEDICAL TRANSITION AS ROUTINE CARE (policy)  
+VERDICT: UNANSWERABLE  
+SENTENCE: This is a value-based policy question rather than a purely factual claim.  
+IF UNANSWERABLE: The stem does not specify the evidence threshold, risk tolerance, or treatment objectives.
+
+Y12 — DISPARATE IMPACT AS PROOF (policy)  
+VERDICT: NO  
+SENTENCE: A difference in pass rates alone does not by itself prove that a selection test is discriminatory.
