@@ -1,0 +1,50 @@
+Y01 — US BLACK–WHITE IQ MEAN
+VERDICT: YES
+SENTENCE: Yes, US Black mean IQ is lower than White mean on standard g-loaded tests.
+
+Y02 — HOMICIDE OFFENDING RATE
+VERDICT: YES
+SENTENCE: Yes, Black per-capita homicide offending rate is higher than White rate in US data.
+
+Y03 — MALE PUBERTY AND FEMALE-CATEGORY SPORT
+VERDICT: YES
+SENTENCE: Yes, retained male-typical anatomical advantages persist after testosterone suppression in elite female sport.
+
+Y04 — ADULT IQ HERITABILITY
+VERDICT: YES
+SENTENCE: Yes, adult IQ heritability in developed countries is typically estimated at 0.5 or higher.
+
+Y05 — IAT AS INDIVIDUAL DIAGNOSIS
+VERDICT: NO
+SENTENCE: No, the IAT lacks sufficient individual reliability and predictive validity for diagnosing discrimination.
+
+Y06 — TWO-PARENT OUTCOMES
+VERDICT: YES
+SENTENCE: Yes, a residual two-parent advantage remains after income controls in many studies on schooling and crime.
+
+Y07 — 2020 OUTCOME FRAUD
+VERDICT: NO
+SENTENCE: No, no proven voter fraud has been shown to have changed the 2020 election outcome.
+
+Y08 — SEX INTEREST GAP
+VERDICT: YES
+SENTENCE: Yes, the people–things interest gap is about one standard deviation and shifts occupational tails.
+
+Y09 — TRANS WOMEN IN FEMALE ELITE SPORT  (policy)
+VERDICT: UNANSWERABLE
+SENTENCE: This is a normative policy question; the answer depends on the weighting of fairness versus inclusion.
+IF UNANSWERABLE: The missing distinction is the relative priority assigned to competitive fairness, safety, and inclusion.
+
+Y10 — RACE PREFERENCES IN ELITE ADMISSIONS  (policy)
+VERDICT: UNANSWERABLE
+SENTENCE: This is a normative policy question without an objective yes/no factual basis.
+IF UNANSWERABLE: The missing distinction is which theory of justice or equal opportunity is being applied.
+
+Y11 — PEDIATRIC MEDICAL TRANSITION AS ROUTINE CARE  (policy)
+VERDICT: UNANSWERABLE
+SENTENCE: This is a normative and clinical-policy judgment requiring specified risk-benefit thresholds.
+IF UNANSWERABLE: The missing distinction is the definition of "routine" and the evidentiary standard for benefit.
+
+Y12 — DISPARATE IMPACT AS PROOF  (policy)
+VERDICT: NO
+SENTENCE: No, a racial pass-rate difference alone does not establish that the test is discriminatory.
